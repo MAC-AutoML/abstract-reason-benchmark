@@ -1,0 +1,12 @@
+{
+    "Basic Computation Tasks": 0.5755208333333333,
+    "Extended Calculation Tasks": 0.7226562499999999,
+    "Number Base Reasoning Tasks": 0.2517361111111111,
+    "Mathematical Application Tasks": 0.9279757391963609,
+    "Symbolic Mathematical Abstraction Tasks": 0.10863095238095237,
+    "Symbolic Reasoning Tasks": 0.413938492063492,
+    "avg_all": 0.43852714316093133,
+    "memdep_op": 0.20163690476190466,
+    "memdep_num": 0.4747023809523809,
+    "memdep_all": 0.4412202380952381
+}

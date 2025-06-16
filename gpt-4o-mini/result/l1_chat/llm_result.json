@@ -1,0 +1,22 @@
+{
+    "avg_all": 0.6341145833333334,
+    "avg_num": 0,
+    "avg_op": 0,
+    "avg_part": 0.7061011904761905,
+    "chat_square_dataset": 0.16666666666666666,
+    "fixed_len_chat_bit_raw_dataset": 0.9895833333333334,
+    "fixed_len_chat_bit_shift_raw_dataset": 0.625,
+    "fixed_len_chat_bitop_raw_dataset": 0.8020833333333334,
+    "fixed_len_chat_str_raw_dataset": 0.3125,
+    "fixed_len_chat_strop_raw_dataset": 0.5833333333333334,
+    "fixed_len_chat_substr_raw_dataset": 0.8229166666666666,
+    "var_len_chat_bit_raw_dataset": 0.9895833333333334,
+    "var_len_chat_bit_shift_raw_dataset": 0.71875,
+    "var_len_chat_bitop_raw_dataset": 0.6979166666666666,
+    "var_len_chat_data_raw_dataset": 0.09375,
+    "var_len_chat_list_cnt_raw_dataset": 0.7708333333333334,
+    "var_len_chat_list_raw_dataset": 0.59375,
+    "var_len_chat_set_raw_dataset": 0.71875,
+    "var_len_chat_str_raw_dataset": 0.5520833333333334,
+    "var_len_chat_strop_raw_dataset": 0.7083333333333334
+}

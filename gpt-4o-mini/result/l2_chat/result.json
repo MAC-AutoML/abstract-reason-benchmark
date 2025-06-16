@@ -1,0 +1,18 @@
+{
+    "avg_all": 0.05815972222222223,
+    "avg_num": 0,
+    "avg_op": 0,
+    "avg_part": 0.05815972222222223,
+    "chat_add_base3_raw_dataset": 0.010416666666666666,
+    "chat_add_base4_raw_dataset": 0.07291666666666667,
+    "chat_add_base5_raw_dataset": 0.07291666666666667,
+    "chat_base3_raw_dataset": 0.020833333333333332,
+    "chat_base4_raw_dataset": 0.07291666666666667,
+    "chat_base5_raw_dataset": 0.14583333333333334,
+    "chat_mul_base3_raw_dataset": 0.0,
+    "chat_mul_base4_raw_dataset": 0.03125,
+    "chat_mul_base5_raw_dataset": 0.010416666666666666,
+    "chat_sub_base3_raw_dataset": 0.052083333333333336,
+    "chat_sub_base4_raw_dataset": 0.09375,
+    "chat_sub_base5_raw_dataset": 0.11458333333333333
+}

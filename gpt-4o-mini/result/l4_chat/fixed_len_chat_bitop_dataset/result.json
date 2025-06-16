@@ -1,0 +1,12 @@
+{
+    "accuracy": 0.4791666666666667,
+    "token_usage": {
+        "total_input_tokens": 140122,
+        "total_output_tokens": 1037
+    },
+    "run_time_seconds": 223.22956442832947,
+    "result_judge_by_llm": 0.4270833333333333,
+    "result_judge_by_em": 0.4791666666666667,
+    "result_judge_by_em_strict": 0.4791666666666667,
+    "total_count": 96
+}

@@ -1,0 +1,13 @@
+{
+    "avg_all": 0.11458333333333333,
+    "avg_num": 0,
+    "avg_op": 0,
+    "avg_part": 0.04340277777777778,
+    "chat_cosine_dataset": 0.0,
+    "chat_linear_dataset": 0.010416666666666666,
+    "chat_quadratic_dataset": 0.0,
+    "chat_sawtooth_wave_dataset": 0.0625,
+    "chat_sine_dataset": 0.0,
+    "chat_square_wave_dataset": 0.5416666666666666,
+    "chat_triangle_wave_dataset": 0.1875
+}

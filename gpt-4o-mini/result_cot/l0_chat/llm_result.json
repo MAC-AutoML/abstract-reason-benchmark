@@ -1,0 +1,10 @@
+{
+    "avg_all": 0.5755208333333333,
+    "avg_num": 0,
+    "avg_op": 0,
+    "avg_part": 0.5755208333333333,
+    "chat_add_dataset": 0.8020833333333334,
+    "chat_div_dataset": 0.5416666666666666,
+    "chat_mul_dataset": 0.07291666666666667,
+    "chat_sub_dataset": 0.8854166666666666
+}
